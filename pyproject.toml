@@ -1,0 +1,10 @@
+[project]
+name = "uax-blockchain"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ecdsa>=0.19.1",
+    "ipykernel>=6.30.1",
+]
