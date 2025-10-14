@@ -1,0 +1,30 @@
+﻿La blockchain es;Una base de datos distribuida;Un programa de minería;Un contrato inteligente;Una red social descentralizada;60;1
+Un bloque contiene principalmente;Transacciones y un hash del bloque anterior;Solo direcciones de usuarios;Registros de nodos activos;Saldos de cuentas;60;1
+La prueba de trabajo sirve para;Garantizar consenso y seguridad;Acelerar las transacciones;Reducir el tamaño del bloque;Aumentar la privacidad;60;1
+El hash de un bloque se calcula con;El contenido del bloque y el hash previo;Solo el número del bloque;Solo las transacciones;Solo la marca temporal;60;1
+Bitcoin utiliza el algoritmo de hash;SHA-1;SHA-256;MD5;RIPEMD-160;60;2
+En Bitcoin el tamaño máximo de bloque es;Aprox. 1 MB;10 MB;100 MB;No tiene límite;60;1
+El tiempo promedio entre bloques es;1 minuto;5 minutos;10 minutos;1 hora;60;3
+El creador de Bitcoin se conoce como;Vitalik Buterin;Satoshi Nakamoto;Hal Finney;Nick Szabo;60;2
+La recompensa por bloque se reduce cada;Año;210 000 bloques;100 000 bloques;Cada dificultad ajustada;60;2
+La halving afecta a;Las comisiones;La recompensa de bloque;La dificultad de minado;El tamaño de bloque;60;2
+El sistema de consenso de Bitcoin es;Proof of Stake;Proof of Authority;Proof of Work;Delegated Proof of Stake;60;3
+La dificultad de minado se ajusta cada;1000 bloques;2016 bloques;210 000 bloques;Cada día;60;2
+La dirección Bitcoin se obtiene a partir de;La clave pública;La clave privada directamente;El hash del bloque génesis;El ID del nodo;60;1
+El suministro máximo de Bitcoin es;1 millón;21 millones;50 millones;Ilimitado;60;2
+Los satoshis son;Un tipo de token distinto a BTC;La unidad mínima de BTC;Los mineros de prueba;Las direcciones seguras;60;2
+1 bitcoin equivale a cuántos satoshis;1 millón;10 millones;100 millones;1000 millones;60;3
+El mempool contiene;Transacciones pendientes;Bloques huérfanos;Nodos desconectados;Claves públicas;60;1
+El nonce es;Un número aleatorio usado en minería;Un hash temporal;Una firma digital;Un identificador de wallet;60;1
+El ajuste de dificultad busca;Mantener el tiempo medio de bloque constante;Aumentar las comisiones de red;Disminuir el hash rate;Alinear la oferta monetaria;60;1
+El hash rate mide;La potencia computacional de la red;El número de nodos conectados;El tamaño de bloque;El número de transacciones;60;1
+Una transacción se considera final cuando;Tiene 6 confirmaciones;Es firmada por el receptor;Está en el mempool;Es enviada por el minero;60;1
+La función de firma digital garantiza;Autenticidad e integridad;Anonimato absoluto;Velocidad de validación;Privacidad de clave pública;60;1
+La blockchain de Bitcoin es pública porque;Todos pueden leerla y verificarla;Requiere permiso para minar;Usa identidades verificadas;Solo el banco central la gestiona;60;1
+La minería consiste en;Validar y agrupar transacciones;Emitir nuevos tokens sin control;Revisar contratos inteligentes;Cambiar la política monetaria;60;1
+El doble gasto se evita gracias a;La prueba de trabajo y el consenso;Las firmas digitales privadas;Los nodos ligeros;Las stablecoins;60;1
+Un nodo completo;Descarga y valida toda la blockchain;Solo guarda su propia wallet;No valida bloques;Depende de un servidor centralizado;60;1
+Las comisiones de transacción en Bitcoin;Las fijan los usuarios según demanda;Las fija el protocolo de forma fija;Las decide el minero arbitrariamente;No existen;60;1
+El halving tiende a generar;Escasez e incremento potencial de precio;Inflación monetaria sostenida;Aumento de oferta rápida;Estabilidad total del valor;60;1
+Lightning Network permite;Transacciones fuera de la cadena;Crear tokens nuevos;Acelerar la minería;Almacenar claves privadas;60;1
+Los contratos inteligentes en Bitcoin son posibles mediante;Script nativo de Bitcoin;Smart contracts de Ethereum;Oráculos externos;Sidechains privadas;60;1
