@@ -46,3 +46,16 @@ Minería:
 - Giacomini y Rossi. Bitcoin: New Financial Order or Libertarian Dystopia? An answer from the Past: Free Banking in Scotland 1727-1845. A Critical Review of Decentralised Systems of Private Money Supply
 - Laura Davidson y Walter Block. Bitcoin, the Regression Theorem, and the Emergence of a New Medium of Exchange
 - Konrad Graf. Revisiting Conceptions of Commodity and Scarcity in Light of Bitcoin
+
+
+## Bibliografía específica
+
+### CBDCs
+
+- Saroj Bhattarai, Mohammad Davoodalhosseini, Zhenning Zhao. [Central Bank Digital Currency and Transmission of Monetary Policy](https://www.bankofcanada.ca/wp-content/uploads/2024/07/swp2024-27.pdf)
+- Alper Koparan. [Central Bank Digital Currencies: A review of global trends in adoption, financial inclusion, and the role of country characteristics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5103342)
+- Marianne Bechara, Wouter Bossu, Amira Rasekh, Chia Yi Tan, Akihiro Yoshinaga[Private Law Aspects of Token-Based Central Bank Digital Currencies](https://www.imf.org/en/Publications/fintech-notes/Issues/2025/03/14/Private-Law-Aspects-of-Token-Based-Central-Bank-Digital-Currencies-565165)
+- Raphael Auer, Giulio Cornelli and Jon Frost. [Rise of the central bank digital currencies: drivers, approaches and technologies](https://www.bis.org/publ/work880.pdf)
+- Toni Ahnert, Katrin Assenmacher, Peter Hoffmann, Agnese Leonello, Cyril Monnet, Davide Porcellacchia. [The economics of central bank digital currency](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2713~91ddff9e7c.en.pdf)
+- Fernando Navarrete [Do we really need a digital euro: A solution to what problem exactly?](https://institutodeanalistas.com/wp-content/uploads/8.-DO-WE-REALLY-NEED-THE-DIGITAL-EURO.-A-SOLUTION-TO-WHAT-PROBLEM-EXACTLY-FERNANDO-NAVARRETE-1.pdf)
+- European Central Bank. [Report on a digital euro](https://www.ecb.europa.eu/pub/pdf/other/Report_on_a_digital_euro~4d7268b458.en.pdf)
