@@ -5,7 +5,8 @@ pragma solidity ^0.8.0;
 contract Faucet {
     function withdraw(uint256 _withdrawAmount, address payable _to) public {
         require(_withdrawAmount <= 1e4, "El importe ha de ser inferior a 1e4 wei");
-        _to.transfer(_withdrawAmount);
+        (bool ok, ) = _to.call{value: _withdrawAmount}("");
+        require(ok, "ETH transfer failed");
     }
 
     // Función para recibir Ether, msg.data debe estar vacío
