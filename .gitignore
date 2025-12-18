@@ -11,3 +11,7 @@ wheels/
 .venv
 
 .env
+
+# Remix artifacts
+ethereum/artifacts
+ethereum/.states
